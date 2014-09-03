@@ -1,0 +1,22 @@
+{
+  "name": "ToDo App",
+  "version": "1.0.0",
+  "description": "ToDo App",
+  "main": "js/core.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Todo"
+  ],
+  "authors": [
+    "Dan"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular-route": "~1.2.23",
+    "angular": "~1.2.23",
+    "bootstrap": "~3.2.0"
+  }
+}
