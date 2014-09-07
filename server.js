@@ -35,4 +35,4 @@
 // listen ================
 
 	app.listen(port);
-	console.log('Listening on port 8080');
+	console.log('Magic happens on port 8080');
